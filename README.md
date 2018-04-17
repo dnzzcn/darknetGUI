@@ -1,7 +1,7 @@
 # Darknet GUI (v0.1.4)
 
 Darknet GUI is a tool to train, test and analyze classifier networks by using Darknet framework. It currently works on 64-bit 
-Linux with OpenCV 3.2. 
+Linux with OpenCV 3.2 and cuDNN v5.1. 
 
 ## Using Darknet GUI
 
