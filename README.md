@@ -23,6 +23,14 @@ Linux with CUDA 8.0.
    ```bash
    sudo ./darknetGUI
    ```
+   
+3. Create a Darknet project by choosing 'New Project' from the File menu.
+
+4. Choose a name for your project, then specify the '.cfg' file, 'labels' file, and the 'train' and 'test' files that list 
+paths for images of your dataset. Click 'Create' to create the project.
+
+5. You can now start to use the Training Tool. A further explanation is provided with a question mark symbol near the title of
+the tool.
 
 ## Release Notes (v0.1.7)
 
